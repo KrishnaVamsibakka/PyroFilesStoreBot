@@ -13,11 +13,11 @@
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
-            "value" : ""
+            "value" : "29055333"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
-            "value" : ""
+            "value" : "a6d154242eaef80a163bf5d0a7763882"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
