@@ -6,11 +6,7 @@ import traceback
 from binascii import (
     Error
 )
-from pyrogram import (
-    Client,
-    enums,
-    filters
-)
+
 from pyrogram.errors import (
     UserNotParticipant,
     FloodWait,
